@@ -1,5 +1,5 @@
 # 1st-template
-whynotsw-camp template 레포지토리입니다.
+whynotsw-camp 1st-template 레포지토리입니다.
 
 -------------------
 # 1차 프로젝트 예시 템플릿
